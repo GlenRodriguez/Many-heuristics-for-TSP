@@ -7,5 +7,9 @@ Traveling Salesman Problems solved using:
 - Iterated Local Search
 - Greedy method
 - GRASP
+- Tabu Search
+- Simulated Annelaing
 - Genetic algorithm
-- etc.
+- Ant Colony Optimization
+
+STAY TUNED !!!
