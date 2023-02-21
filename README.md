@@ -1,7 +1,7 @@
 # Heuristics for TSP
 Here I will put the files for my new course on Heuristics and Metaheurstics
 
-The data comes from file http://localhost:8888/lab/tree/TSPGrasp.ipynb
+The data comes from file [tsp0100.txt](tsp0100.txt)
 
 Traveling Salesman Problems solved using:
 
