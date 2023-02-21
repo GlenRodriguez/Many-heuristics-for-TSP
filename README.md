@@ -7,7 +7,7 @@ Traveling Salesman Problems solved using:
 
 - Local Search
 - Iterated Local Search
-- [Greedy method](TSPGreedy,ipynb)
+- [Greedy method](TSPGreedy.ipynb)
 - GRASP
 - Tabu Search
 - Simulated Annelaing
